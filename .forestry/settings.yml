@@ -8,7 +8,7 @@ sections:
   path: exampleSite/content/blog
   label: blog
 - type: directory
-  path: content/blog
+  path: exampleSite/content
   label: Pages
   create: all
   match: "*"
